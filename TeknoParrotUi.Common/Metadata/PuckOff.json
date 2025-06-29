@@ -1,0 +1,14 @@
+{
+  "game_name": "PuckOff",
+  "game_genre": "Sports",
+  "icon_name": "puckoff.png",
+  "platform": "Global VR PC Based",
+  "release_year": "2007",
+  "nvidia": "OK",
+  "nvidia_issues": null,
+  "amd": "NO_INFO",
+  "amd_issues": null,
+  "intel": "NO_INFO",
+  "intel_issues": null,
+  "general_issues": null
+}
