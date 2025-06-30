@@ -1,9 +1,9 @@
 {
-  "game_name": "Taiko No Tatsujin 7",
+  "game_name": "Taiko No Tatsujin 10",
   "game_genre": "Rhythm",
-  "icon_name": "taiko7.png",
-  "platform": "Namco System 246",
-  "release_year": "2006",
+  "icon_name": "taiko8.png",
+  "platform": "Namco System 256",
+  "release_year": "2007",
   "nvidia": "OK",
   "nvidia_issues": null,
   "amd": "OK",
